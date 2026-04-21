@@ -83,3 +83,4 @@ Current state: service-hours tracker pulled (`artifacts/2026-04-20-drive-pull/se
 - 2026-04-20: Pulled Service Hours xlsx from Drive → `artifacts/2026-04-20-drive-pull/service-hours-raw.md`
 - 2026-04-20: Pulled Dr. B cycle-kickoff + LOR thread from Gmail → `artifacts/2026-04-20-gmail-pull/tj-banisaukas.md`
 - 2026-04-20: Pulled Mark Zaki feedback thread (2 rounds) from Gmail → `artifacts/2026-04-20-gmail-pull/mark-zaki.md`
+- 2026-04-21: MCAT score report received from Ian → `artifacts/2026-04-21-mcat-score/`. **525 total (100th %ile), sections 130/132/131/132**, exam date 2025-06-27. Top ~1%; clears T20 score filter. Stays out of PS per credential-forward handling; lives in AMCAS form itself.
