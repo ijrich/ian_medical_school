@@ -217,3 +217,57 @@ Reasoning:
 - **Risk** — A-1 is the lowest-risk variant that still unifies the two competing theses under the presence+training spine. A-2 is a viable alternative if opening-on-midnight lands harder than opening-on-Dr.-Mo. A-3 is higher-compression with the cost of losing Walter + quarterback patient as full scenes.
 
 A-1 is the pick. Proceed to Galen structural review, then drafting.
+
+---
+
+## A-1.1 — post-review revision (2026-04-21)
+
+After Galen's structural review (PR #13) and Ian's course-corrections, A-1 is revised to A-1.1 with the following changes:
+
+**From Ian (2026-04-21):**
+
+1. **Cut Murphy as a separate beat.** Preparation section uses Dr. Follo only as the duet exemplar. Murphy doesn't land as impactfully as Follo for this essay. 100-hour LNA + Follo shadowing + Murphy shadowing is too many preparation beats for the character budget; cutting Murphy lets Follo breathe.
+2. **Retain explicit reapplicant acknowledgment.** *"Right out of college I applied to medical school and didn't get in"* (or similar) stays in P4. Reader needs the acknowledgment to understand why Ian didn't just go to med school originally.
+3. **LNA as reflection, not load-bearing.** Ian spent 100 hours at Edgewood over 4 months. Not enough to claim "I have presence" as a credential. LNA paragraph is a site of honest reflection on the bedside work — what Walter taught Ian, what Ian learned about the work's register — not a proof that Ian owns half the physician duet.
+
+**From Galen (outline-review-001, PR #13):**
+
+4. **Loosen P4 decade framing** — drop the *"each chapter taught one half, not the other"* construction. Research training ≠ clinical training; Gain Life / VC / impact-investing don't cleanly map to either half. Replace with *"ten years looking at where help lands from every vantage point that isn't the bedside"* — decade as search for the bedside by elimination.
+5. **P3 thesis positive-attribution** — rephrase *"two halves that usually live apart"* to avoid implicit negative framing of adjacent clinical roles (nurses, midlevels, researchers). Use positive attribution to physicians: e.g. *"a physician's training puts together knowing this patient and carrying the call for her."* Exact wording writer's call; the rule is positive-to-physicians, not negative-about-others.
+6. **P7 budget** — no longer an issue with Murphy cut. Follo alone gets ~800 chars, natural fit.
+
+**Thesis recalibration:**
+
+A-1's original framing implied Ian had half the duet (presence, via LNA) and wanted the other (training). With LNA no longer load-bearing per Ian's course-correction, the thesis pivots slightly:
+
+- **Physicians bring presence + training together. Dr. Mo's call required both at once. After a decade looking at where help lands from outside, after being on the receiving end of that duet when Jamie was diagnosed, after time at the bedside reflecting on what presence requires, and after watching Dr. Follo bring both at once for a patient over years — Ian understands what the physician role is and wants to earn it.**
+
+This is more honest. Ian doesn't claim he owns either half; he claims he understands what the combined role is and wants to do the training to earn both.
+
+### A-1.1 paragraph structure
+
+| # | Paragraph | Beats | Approx chars |
+|---|---|---|---|
+| 1 | Opener — inside Dr. Mo's weeks | Cancer confirmation after hope; *"punch to the gut"*; *"hardest part had not yet begun"* | ~500 |
+| 2 | Dr. Mo judgment scene | Age / trajectory / novel therapeutics / toxicities / Jamie's particular life; three regimen-choice questions; *"a total judgment call. His synthesis and judgment, and our trust in him and his training, that made it survivable."* | ~700 |
+| 3 | Thesis (positive-attribution phrasing) | What Dr. Mo brought was what a physician's training puts together — knowing this patient and carrying the call for her. That combined role is what Ian wants to earn. | ~300 |
+| 4 | Decade — loosened framing, reapplicant retained | Reapplicant acknowledgment: *"Right out of college I applied to medical school and didn't get in"* + *"I wanted to answer honestly whether medicine was what I actually wanted"* (or Galen rephrases). Research at a Boston teaching hospital (MedSeq); research-to-clinic gap observation (v8 nested-subject-safe version); digital health (direct impact, scale limits); MBA + VC + economic-mobility investing (*"released back into the street only to come back"*). Decade as ten years looking at where help lands from every vantage point that isn't the bedside. Close: *"What I could not do from outside was make the call for a specific patient, in a specific life, when the evidence ran out."* | ~1100 |
+| 5 | Jamie midnight bridge | Scotland → ED → surgery → midnight at the hospital Ian started in at twenty. *"I had wandered a long way and come right back. In the weeks after Dr. Mo's judgment call I knew, finally, what I had been delaying. It felt like time to take the next step."* | ~500 |
+| 6 | LNA as reflection | *"Taking that step meant going back to school."* [or similar bridge into the prep work.] Ian spent months at a dementia and hospice unit as an LNA. Walter scene (bath, trust moment, *"Even when there is nothing left to fix, there is a world of good still to be done"*). Ian's reflection — *"fulfilling in a way I hadn't expected"* — the work was real; the register was honest; the bedside is where the duet is carried. | ~550 |
+| 7 | Follo — the duet in action | Dr. Follo's FQHC: population (unhoused, suffering from addiction, dealing with trauma); 20-minute constraint + bilateral-honesty observation; quarterback-patient scene (de-identified survivor → sober → stable → prenatal). *"Dr. Follo had quarterbacked every one of those transitions."* The acute/sustained link to Dr. Mo: *"In Dr. Mo's room the judgment call was acute. Here it was sustained."* Follo shows the duet at work, over years, with presence AND the training to change what happens. | ~900 |
+| 8 | Closing | *"Jamie is well now, her disease undetectable by every measure we can read, carried there by a beautiful tapestry of people whose training helped show us hope — Dr. Mooney, Dr. Mo, Dr. Ng through the weeks of radiation, the fertility doctor who opened a conversation we didn't know to ask for."* *"I want to give back what I was given. The call to be of service to others, and to be there when things are difficult, is where I'm meant to be."* | ~450 |
+
+**Budget estimate: ~5,000 chars + transitions. Under 5,300 with ~300 char headroom.**
+
+### What A-1.1 does differently from A-1
+
+- Drops Murphy (per Ian). P7 becomes Follo-only with more room for the quarterback scene + time-constraint observation.
+- Thesis pivots from "Ian has presence + wants training" to "Ian understands what physicians do + wants to earn the combined role." Less load-bearing on LNA; more honest.
+- P4 decade framing loosened (per Galen) — not "each chapter taught one half"; instead "ten years looking at where help lands from every vantage point that isn't the bedside."
+- Reapplicant acknowledgment explicitly retained (per Ian).
+- LNA as reflection, not credential (per Ian). Walter scene still carries emotional weight; the "fulfilling" lesson still lands as growth-arc evidence — but the paragraph isn't claiming Ian owns presence.
+- Walter→Murphy diptych is gone (Murphy cut). The LNA paragraph closes on honest reflection; Follo's paragraph is the duet in action. New shape: Ian reflects from inside briefly, then watches the duet carried over years by a trained physician.
+
+### Ready for drafting
+
+Pending Ian's go: update the canonical outline state and dispatch revise-008 (draft 9) against A-1.1.
