@@ -34,13 +34,14 @@
 
 ### Personal Statement
 
-Current state: V2.0 in Drive, last revised 2026-03-15. Mark Zaki's Round 2 feedback (2026-03-16) is **not yet integrated**.
+Current state: V2.0 in Drive, last revised 2026-03-15. Mark Zaki's Round 2 feedback (2026-03-16) is **not yet integrated**. **V3 prep complete 2026-04-21** — interview transcript + writer packet live at `application/personal-statement/{interview-notes.md, writer-packet.md}`. Ready to draft; drafting owner TBD (human writer or scaffolded `writer` worker bot — no worker exists yet).
 
 - [ ] Draft V3 incorporating Mark's Round 2 feedback:
   - Reframe Jamie's illness (multiple myeloma + spinal tumor) as the crystallizing moment for pursuing an MD; Walter becomes a vignette, not the pivot.
   - Reframe FQHC shadowing + LNA work as preparation to be a physician, not as tests of whether to become one.
   - Be decisive on why MD specifically — not nurse, patient advocate, or social worker.
   - Residual from Round 1: tighten casual register and transitions; consider an orienting exec-summary line before the "path to Walter's was not direct" pivot sequence.
+- [ ] **🔴 Resolve V3 opening + reapplication framing** (flagged by Ian 2026-04-21 as primary open problem). Separate decisions: *mention* reapplication (yes — Mark's preference + framing value) vs. *open with* reapplication (probably no — "leads with failure" + Mark's Round 2 "open inside Jamie"). Leading candidate: open with midnight BWH post-op scene (§Q3 of interview-notes.md), mention reapplication in the decade paragraph. Full context in `application/personal-statement/interview-notes.md` §Q14.
 - [ ] Share V3 with Mark Zaki for Round 3
 - [ ] Share V3 with Dr. B
 
@@ -51,6 +52,7 @@ Current state: service-hours tracker pulled (`artifacts/2026-04-20-drive-pull/se
 - [ ] Locate (or draft) the AMCAS W&A prose descriptions
 - [ ] Select "most meaningful" entries (up to 3 get the 1325-char extended section)
 - [ ] Cross-check W&A narratives against service-hours log and PS through-line (gap-check)
+- [ ] Add Ian's early-career genetics research role at Brigham & Women's Hospital as a W&A entry (flagged by Ian 2026-04-21 during V3 interview)
 
 ### School list
 
