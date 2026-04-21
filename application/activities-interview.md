@@ -276,14 +276,102 @@ Ian's observation in his own voice: *"Not everyone can pay for mental health. An
 
 Remaining (lower priority): hours total, additional LNA patients Ian wants in W&A (already closed by §Q11 in interview-notes.md — Walter carries the beat).
 
+---
+
+**Expansion (Ian, 2026-04-21, verbatim):**
+
+> I wanted to go to become an LNA to see if I could really do the work and be in a setting where people are depending on me to take care of them. I wasn't sure about hospital or nursing home, but I was glad I did the time at the nursing home.
+>
+> All of the patients were total assist. Many of them had dementia. And many of them were on hospice.
+
+**Motivation (the why of becoming an LNA):** Test whether Ian could do the hands-on care work and be in a setting where people are dependent on him. Between hospital and nursing home, he chose nursing home (glad he did).
+
+**Population at Edgewood:** All total-assist (dependent for all ADLs); many with dementia; many on hospice.
+
+**Writable content:**
+
+- *"I wanted to see if I could really do the work and be in a setting where people are depending on me to take care of them."* — Ian-voice motivation line. Usable in W&A most-meaningful or secondaries asking about a formative experience.
+- The hospital-vs-nursing-home deliberation (and choice of nursing home) is a small but specific biographical detail that could land in a secondary about decision-making or in a growth-arc line.
+- Population detail (*"all total assist"*, *"many on hospice"*) grounds the scale of the care work — usable in W&A activity description.
+
+**Remaining interview beats for A6:**
+
+- Shape of a typical shift.
+- Hours total.
+
+---
+
+**Beyond Walter — the MS patient (Ian, 2026-04-21, verbatim):**
+
+> I remember one patient of mine who had severe MS. I think a lot of people thought he couldn't understand them, but he actually could and couldn't speak. I can't imagine how hard it was for him every day to not be able to ask or get what he wanted. I sat with him and spent time trying to figure out what he wanted to eat one by one trial and error. He really never ate at first, and over time I was able to help him figure it out. He started eating once I learned his preference. IT's just so sad ot think that some days he doesn't eat because no one can understand what he's asking for or why he refuses to eat.
+
+**The scene in structure:** Patient with severe MS — cognitively present but non-verbal. Others assumed cognitive absence; Ian didn't. Ian spent time, one-by-one trial and error, to learn the patient's food preferences. The patient, who wasn't eating at first, started eating once Ian learned what he wanted. Ian's reflection: sadness at the thought that when he's not there, the patient may not eat because no one else can read him.
+
+**Register of this scene** — different from Walter's. Walter is presence-in-refusal (one afternoon, one bath, one trust moment). The MS patient is sustained attention-over-time (repeated shifts, trial and error, accumulated understanding). Two distinct registers of the LNA work.
+
+**Direct care work description (Ian, 2026-04-21, verbatim):**
+
+> I learned so much. I did everything for people. I bathed them, I cleaned them up after being incontinent which ahppened often, I fed them, and I dressed them. I met with familiest who appreciate me for being there, because of how hard of decision it is to put your loved one's there in the first place.
+
+Unflinching ADL-level care description. New dimension: family interactions — families who appreciated Ian's presence, framed against the difficulty of the decision to place a loved one in a nursing home.
+
+**Lessons (Ian, 2026-04-21, verbatim):**
+
+> I learned that you can just show up every day and be a kind person and make a ton of difference in the world. I learned not to be so afraid of death and dying mostly because those people who are dying are still alive and still crave human connection. They can still laugh and smile from time to time. I felt like I was there for people who needed me at the bedside. And it was fulfilling in a way I had not expected.
+
+Three lessons explicitly named:
+1. **Showing up + being kind = material impact** — *"you can just show up every day and be a kind person and make a ton of difference in the world."*
+2. **Dying patients are still alive** — *"those people who are dying are still alive and still crave human connection. They can still laugh and smile from time to time."* Anti-death-avoidance insight.
+3. **Bedside work was fulfilling unexpectedly** — *"I was there for people who needed me at the bedside. And it was fulfilling in a way I had not expected."* Direct reapplicant-growth-arc evidence: Ian was testing whether the care work would be for him, and discovered it was.
+
+**V3 / essay implications (for next revise-007 scaffolding):**
+
+The MS patient scene is a real alternative or companion to Walter. The two scenes carry different registers (Walter = presence-in-refusal; MS patient = attention-over-time). Writer candidates for revise-007:
+
+- **Option A — keep Walter, add one line about the MS patient.** Budget-tight. The MS patient shows sustained-attention register; Walter shows trust-moment register.
+- **Option B — replace Walter with the MS patient.** Bigger change; MS patient scene arguably richer because it shows the care work building understanding over time, which parallels Dr. Follo's "quarterbacking" in a different (non-physician) register.
+- **Option C — compose a composite.** Walter scene tight + MS patient lesson-about-eating as a follow-on sentence. Both registers land but adds chars.
+
+Three Ian-verbatim lessons available as writable phrases:
+- *"You can just show up every day and be a kind person and make a ton of difference in the world."*
+- *"Those people who are dying are still alive and still crave human connection."*
+- *"It was fulfilling in a way I had not expected."*
+
+The last one in particular is strong reapplicant-growth-arc material — the "I didn't expect this" framing is evidence of genuine testing and genuine discovery.
+
 ### A7 — FQHC shadowing with Dr. Follo
 
-*Pending.*
+**Ian, 2026-04-21 (verbatim — on what the FQHC experience was about for him):**
 
-Questions to probe:
-- Which FQHC, dates, total hours (service-hours log has 35 hrs Sept–Dec 2025 per brief §5.2; cross-check against activity experience).
-- What the shadowing entailed — exam-room observation, clinical conversations between, prep work, follow-ups?
-- Any additional patient scenes Ian wants in W&A beyond the quarterback-patient scene already in V3.
+> I think it was just about the patient population and the resources. It was really hard to solve all of these systemic issues in the 20 minutes she had. People were unhoused, suffering from addiction, dealing with trauma. It was just a window into America's social issues that I got see very much up close and personally. A bit of a extension from EO ventures but up close and personal
+
+**The Follo shadowing — Ian's register:**
+
+Not framed as Dr.-Follo-as-mentor, not framed as specific Follo moments beyond the quarterback patient. Framed as **a window into America's social issues up close and personal**, continuous with the EO Ventures observation but at a closer vantage. The specific constraint Ian names: *"really hard to solve all of these systemic issues in the 20 minutes she had"* — the primary-care time-constraint reality observed firsthand.
+
+**Population at the FQHC (per Ian):** unhoused patients; patients suffering from addiction; patients dealing with trauma.
+
+**⚠️ V3 / revise-007 implication — escalating-intimacy framing:**
+
+Ian's framing of the Follo shadowing as *"a bit of an extension from EO Ventures but up close and personal"* sharpens the three-vantage-points observation. The three vantage points aren't just three angles — they're three **escalating intimacies of the same systemic observation**:
+
+1. **EO Ventures** — from strategic / investment distance (who funds what, what reaches whom)
+2. **FQHC (Dr. Follo)** — from the exam room (what a physician can do in 20 minutes for a patient who is unhoused / has addiction / is carrying trauma)
+3. **LNA (Edgewood)** — from the bedside (patients where intervention time has ended; presence work)
+
+This is a tighter and more Ian-voice framing than the hybrids' current "three angles" phrasing. **Revise-007 candidate move:** let the preparation section escalate intimacy deliberately — investor → clinician → caregiver → physician-to-be. The thesis (why-MD = judgment under ambiguity, make the call for a specific patient) sits at the end of that escalation.
+
+**Writable content from Ian's reflection:**
+
+- *"Solve all of these systemic issues in the 20 minutes she had"* — specific time-constraint observation. Usable with light editing.
+- *"A window into America's social issues, up close and personal"* — reflective framing line. Slightly abstract in *"America's social issues"* — writer could tighten to specifics (*"unhoused patients, addiction, trauma"*) without losing the observation.
+- *"A bit of an extension from EO Ventures but up close and personal"* — the escalation-of-intimacy articulation. Candidate for essay structural move.
+
+**Remaining (lower priority, not essay-blocking):**
+
+- Any other specific FQHC patient beyond the quarterback woman (Ian didn't volunteer one; may not have a second scene).
+- Dates + total FQHC hours (service-hours log has 35 hrs Sept–Dec 2025).
+- How Ian came to shadow Dr. Follo (connection, referral, cold outreach).
 
 ### A8 — MSK shadowing with Will Murphy
 
@@ -293,6 +381,76 @@ Questions to probe:
 - Unit / department, dates (10 hrs 2025-12-12, 8 hrs 2026-04-06 per writer-packet §1).
 - What the shadowing entailed — derm-onc clinic? procedure room? tumor board?
 - Any additional scenes Ian wants in W&A beyond the upstream-intervention beat in V3.
+
+### A10 — Volunteering at the hospital
+
+**Ian, 2026-04-21 (verbatim — A10 opening, answered alongside A11):**
+
+> I was at portsmouth regional hospital. It is very high acuity. The majority of the population is very old and very sick. I did two things. First, inpatient visits. I would go in and spend time with anyone who was feeling alone or lonely. I would sit and talk to them and just try to make the hospital less painful for them. I would bring books and magazines. And just generally try to make their stay a little more comfortable and offer any companionship that I could.
+
+**Facility:** Portsmouth Regional Hospital (same hospital where Jamie got her initial ED diagnosis in Oct 2024). Ian's local.
+
+**Two roles:**
+1. **Inpatient companionship visits** — sitting with patients who were alone or lonely; talking, bringing books and magazines, reducing isolation.
+2. **NODA (No One Dies Alone) program** — see §A11.
+
+**Population:** very high acuity, majority very old and very sick.
+
+**⚠️ Narrative / handling note — Portsmouth as a location:**
+
+Portsmouth Regional appears in two places in Ian's cycle:
+- Jamie's initial ED diagnosis (Oct 2024) — per §Q1, Ian has ruled this scene out of V3 because the Portsmouth neurosurgeon handled the diagnosis poorly.
+- Ian's volunteering (inpatient visits + NODA) — positive register, Ian's own service work.
+
+Writer handling: do not frame Portsmouth as a foil (per §Q1 ruling). Naming Portsmouth as the volunteering hospital is fine if W&A / a secondary needs the specificity, but V3's personal statement doesn't need to name it — "at a local hospital" or similar works. The two Portsmouth contexts (Jamie's case + Ian's volunteering) are narratively separate and shouldn't be yoked together in print.
+
+**Remaining (lower priority): dates + approximate hours total for W&A.**
+
+### A11 — No One Dies Alone project
+
+**Program:** Portsmouth Regional Hospital's NODA program. Volunteers sit vigil for end-of-life patients who have no family present, so no one dies alone.
+
+**Ian, 2026-04-21 (verbatim — the scene):**
+
+> I also did the NODA program - no one dies alone. I sat vigil for people who were end of life with no family. I remember once I was sitting with a woman and her family showed up. They were confused at first, until I explained what I did. And they cried and thanked me. It might be the most moving thing I've ever done.
+
+**The scene:** Ian sitting NODA vigil with an end-of-life woman at Portsmouth Regional. Her family (assumed absent) actually arrived. They were confused at first — a stranger at their mother's bedside — until Ian explained the NODA role. They cried and thanked him. Ian's framing: *"might be the most moving thing I've ever done."*
+
+**Follow-up message from the family member (captured 2026-04-21 via Ian's screenshot at `artifacts/2026-04-21-noda-family-message/beth-message.jpg`):**
+
+Ian texted Beth (the daughter, per context) after leaving the vigil:
+> "Hi Beth — I'm just about to head out. I wanted to let you know that there weren't any major changes. She is the same as when you left. Seems to be sleeping a bit more peacefully. Really nice to meet you. Hope you are home safely."
+
+Beth replied:
+> "TY so much. I actually got home about 10 minutes ago. It was so nice to meet you. I am sending you healing and positive vibes for you and your family. Thank you so very much. You give me renewed inspiration. I ran multiple group homes and I would hire you in a split second 🙏❤️. Thank you for who you are. My mom thanks you as well."
+
+Plus a partially-visible cut-off final message with *"...how special you are. You definitely touched my soul. More than…"*
+
+**Third-party professional validation.** Beth's line *"I ran multiple group homes and I would hire you in a split second"* is specific — she has professional long-term-care experience and is making a technical judgment, not just emotional gratitude.
+
+**W&A / secondary / update-letter implications:**
+
+- **Secondary material:** if a school asks about a meaningful volunteer experience or a moment that changed the applicant, the NODA scene + family encounter is the single highest-impact moment Ian has shared in any interview. Use in a secondary; do not put in the personal statement (V3 has no budget for it; already has Walter, Dr. Follo's patient, and optionally the MS patient).
+- **W&A most-meaningful:** NODA deserves a most-meaningful-experience slot (AMCAS allows 3 of 15 entries as most-meaningful with 1,325-char extended sections). Strong candidate.
+- **Update letter:** if the NODA work is ongoing at the time of an update letter, this scene could anchor an update.
+- **Handling the family message:** DO NOT quote Beth verbatim in any application artifact. It's private correspondence. Use Ian's own description of the family's response in his voice. The "group home hire" line is third-party validation but quoting it is awkward voice and privacy-sensitive. Paraphrase or describe ("the family later wrote to thank me — one of them ran long-term-care facilities and said she'd hire me") if used at all; better to describe the moment itself (family arriving, confusion, explanation, their tears) and let the reader infer the weight.
+
+**Writable content from Ian's own voice:**
+
+- *"It might be the most moving thing I've ever done."* — Ian's register for the scene. Usable in secondary/W&A as reflection.
+- *"They were confused at first, until I explained what I did. And they cried and thanked me."* — the turn of the scene; specific and earned.
+
+**Remaining interview beats for A11:**
+
+- Ian, 2026-04-21: *"I started doing this in September of 2025 and continuing to do it now."* **Sept 2025, ongoing** — same timing for both A10 hospital companionship and A11 NODA (confirmed by Ian 2026-04-21). Concurrent start with LNA training (Sept 2025 – Jan 2026), Dr. Follo shadowing (Sept 2025 onward), CNA training. At 7+ months and counting, A10+A11 are the longest-running of the reapplication-prep service activities.
+- **Origin of NODA match** — Ian, 2026-04-21: *"I told the volunteering office my story. I told them I wanted to be with people in times of hardship, and they said NODA would be perfect."*
+
+Ian walked in, told the coordinator his story (Jamie's illness, the reapplication, his motivation), named his own want as *"to be with people in times of hardship,"* and the office matched him to NODA on the spot.
+
+**Resonant for V3 / essay work:** The phrase *"I wanted to be with people in times of hardship"* is a direct echo of Ian's §Q7 closing germ — *"The call to be of service to others, and to be there when things are difficult, is where I'm meant to be."* Same sentiment, different words. The NODA origin is a specific, dated, witnessed moment (Sept 2025, with a specific coordinator) where Ian articulated the motivation that now closes V3. Not essay-body material (budget), but strong secondary / W&A / update-letter substrate: the moment of self-articulation that preceded the service work.
+
+- **Total hours A10+A11 combined: approximately 100 hours** (Ian, 2026-04-21) across Sept 2025 – present (~7 months). ~3-4 hours/week consistent commitment.
+- Still open (non-blocking): any other specific vigil or encounter Ian carries beyond the Beth-family scene.
 
 ### A9 — Other activities Ian wants represented in W&A
 
