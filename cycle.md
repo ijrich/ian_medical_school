@@ -34,13 +34,15 @@
 
 ### Personal Statement
 
-Current state: V2.0 in Drive, last revised 2026-03-15. Mark Zaki's Round 2 feedback (2026-03-16) is **not yet integrated**.
+Current state: V2.0 in Drive, last revised 2026-03-15. Mark Zaki's Round 2 feedback (2026-03-16) is **not yet integrated**. **V3 prep complete 2026-04-21** — interview transcript + writer packet live at `application/personal-statement/{interview-notes.md, writer-packet.md}`. Ready to draft; drafting owner TBD (human writer or scaffolded `writer` worker bot — no worker exists yet).
 
 - [ ] Draft V3 incorporating Mark's Round 2 feedback:
   - Reframe Jamie's illness (multiple myeloma + spinal tumor) as the crystallizing moment for pursuing an MD; Walter becomes a vignette, not the pivot.
   - Reframe FQHC shadowing + LNA work as preparation to be a physician, not as tests of whether to become one.
   - Be decisive on why MD specifically — not nurse, patient advocate, or social worker.
   - Residual from Round 1: tighten casual register and transitions; consider an orienting exec-summary line before the "path to Walter's was not direct" pivot sequence.
+- [x] **V3 opening + reapplication framing: resolved 2026-04-21 (Ian).** Midnight post-op scene opens (do not name BWH — credential-drop risk at non-Harvard schools, use geography + career-start link). Reapplication mention lives in the decade paragraph. Why-MD axis sits hard on Dr. Mo's judgment-under-ambiguity (Follo + Murphy as supporting beats). Physician-naming policy: use names we have (Mooney/Follo/Mo/Ng/Murphy), role for fertility doctor. All captured in `application/personal-statement/writer-packet.md` §1.1, §1.4, §3.3, §3.4.
+- [ ] Galen drafting V3 first-draft (task `draft-001`, dispatched 2026-04-21). PR will open against `ps/v3-mission-brief` for now; auto-retargets to main after PR #3 merges.
 - [ ] Share V3 with Mark Zaki for Round 3
 - [ ] Share V3 with Dr. B
 
@@ -51,6 +53,7 @@ Current state: service-hours tracker pulled (`artifacts/2026-04-20-drive-pull/se
 - [ ] Locate (or draft) the AMCAS W&A prose descriptions
 - [ ] Select "most meaningful" entries (up to 3 get the 1325-char extended section)
 - [ ] Cross-check W&A narratives against service-hours log and PS through-line (gap-check)
+- [ ] Add Ian's early-career genetics research role at Brigham & Women's Hospital as a W&A entry (flagged by Ian 2026-04-21 during V3 interview)
 
 ### School list
 
