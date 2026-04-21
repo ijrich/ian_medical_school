@@ -162,7 +162,7 @@ The hope-then-dashed emotional turn only exists because the ED visit left open a
 
 | Risk | Where it came up | Handling |
 |---|---|---|
-| "Doctors looked dejected / tired / down in the dumps / single dimensional" | §Q7 | Keep the observation (explains the departure), soften the phrasing, frame the return as earned understanding not vindication. Adcoms are full of physicians. |
+| "Doctors looked dejected / tired / stretched thin / single dimensional" | §Q7 | **Do NOT frame physicians negatively at all, even softened.** Per Ian 2026-04-21 (after draft 3 review): *"Things that are true but framed as negative don't often play well in these statements."* Reframe as Ian-as-subject — what he wanted for himself, what he was still figuring out, what felt unresolved to him — not what the physicians looked like or were. The decade-paragraph pivot-away should read as Ian's own self-questioning, not as an observation about the profession. **Prior "keep the observation, soften phrasing" guidance is superseded.** |
 | "Poor and down on their luck" | §Q9 | Preserve underserved-care substance in a softer register (e.g., "patients whose situations don't fit easy answers"). |
 | De-identify the Dr. Follo patient | §Q9 | No combined-detail fingerprint (origin-state + destination-state + LNA-role + prenatal). Compose or blur distinguishing facts; preserve the physician-coordination point. |
 | MSK naming | §Q13 | Name once at most. Let content carry credibility, not brand. |
@@ -212,6 +212,7 @@ College → first cycle (right out of college, didn't land) → decade (BWH gene
 ## 6. What NOT to include in V3
 
 - The Portsmouth neurosurgeon (Ian ruled out).
+- **Negative framing of physicians, other clinicians, patients, institutions, or the medical profession** — even when true and softened. Per Ian 2026-04-21: essay framing is constructive only. Applicant is always the subject of their own framing, never a critic of others. *"The physicians I had been around looked stretched thin"* is an example of what to reframe — pivot to Ian-as-subject (what he wanted, what he was figuring out) rather than physicians-as-object.
 - Identifying details of the Dr. Follo patient (§3.3).
 - **"Brigham and Women's Hospital" named in the opener or elsewhere** (Ian 2026-04-21 — see §3.3). Use geography + career-start link instead.
 - A named lab or specific genetics-research role at BWH ("I started my career at this hospital" is enough; no Ian volunteering of lab or role).
