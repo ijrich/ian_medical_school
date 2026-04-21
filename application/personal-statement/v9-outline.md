@@ -271,3 +271,155 @@ This is more honest. Ian doesn't claim he owns either half; he claims he underst
 ### Ready for drafting
 
 Pending Ian's go: update the canonical outline state and dispatch revise-008 (draft 9) against A-1.1.
+
+---
+
+## Latter-half re-architecture (2026-04-21) — post-revise-008 diagnosis
+
+**Trigger:** Ian read the revise-008 draft (PR #15, Galen's targeted rework of 9b on the three craft flags) and the dean-review APPROVE verdict. His read: *"I think we need to help Galen with a revised outline for the latter half of the essay. He's sticking to the paradigm too closely."*
+
+This is not a craft problem. Galen's execution on revise-008 addressed each of Ian's paragraph-level flags cleanly. The problem is one layer up: the outline's latter half is itself paradigm-sticky, and no paragraph-polish can move an essay whose structure is generic.
+
+### What "the paradigm" is
+
+A-1.1's latter half (P5–P8) follows the canonical mid-career reapplicant prep-section formula:
+
+1. **P5** — personal arc bridge to the return decision
+2. **P6** — LNA / bedside work reflection (proof of clinical testing)
+3. **P7** — physician shadowing (proof of clinical witness)
+4. **P8** — tapestry-of-people + *"I want to earn the training"* + call-to-service close
+
+Every reapplicant with bedside work and a shadowing experience writes some version of this. The substrate in Ian's version is strong — Walter's bath, Dr. Follo's quarterback patient, Jamie's recovery, the call-to-service closing — but the **argumentative shape is indistinguishable from the formula.** P6 and P7 are structurally parallel (both "Ian watched a clinical situation and reflected"), which tells the reader P7 is "the next applicant-activity" rather than a separate argumentative move. P8 then closes on the tapestry/earn-training/call-to-service chord which is itself a reapplicant convention.
+
+The dean-review residual on the P6→P7 transition flagged this side-effect (tonal jolt between LNA reflection and physician-observation) but did not surface it as the structural issue it is. Ian's read corrects the classification.
+
+### What a paradigm break has to preserve
+
+- **Jamie arc integrity.** Neck pain → ED → Boston surgery → midnight bridge. Non-negotiable substrate.
+- **Walter scene.** Ian-verbatim bath moment + *"Even when there is nothing left to fix, there is a world of good still to be done."* Emotional weight anchor. Must be present in full or with deliberate structural reason for cutting.
+- **Quarterback-patient specificity** (survivor → sober → stable → prenatal care) is high-quality substrate. Preserving it fully is ideal; losing it should be an explicit tradeoff, not an accident.
+- **P3 chiasmus thesis** — *"the knowledge to read the science around a person, and the attention to read the person around the science"* — Ian's pick, stays.
+- **Call-to-service closing-germ** — *"the call to be of service to others, and to be there when things are difficult"* — Ian's own articulation, reusable in any closing.
+- **Reapplicant acknowledgment** retained per Ian's prior course-correction.
+- **Handling flags** all still in force (BWH / Portsmouth unnamed; Follo patient de-identified; no credential-drop; no negative framing incl. nested-subject; no Murphy / no MSK).
+- **Budget** ≤ 5,300 chars.
+
+### New substrate available but underused (activities-interview.md)
+
+Three Ian-verbatim elements the latter half hasn't exploited:
+
+1. **Escalating-intimacy framing** (§A7). Ian's own words on the FQHC: *"a bit of an extension from EO Ventures but up close and personal."* This reframes the three non-bedside vantage points (research / tech / investing / FQHC shadowing) as **escalating intimacies of one systemic observation**, with the LNA bedside as the culmination. Latent in A-1.1's P4 decade framing but never extended into the prep section's structural argument. **This is the highest-leverage unused substrate.**
+2. **MS patient scene** (§A6 expansion). Non-verbal MS patient at Edgewood; Ian's trial-and-error attention across shifts produced understanding; patient started eating once Ian learned his preferences. Register is *sustained attention over time* — parallels Dr. Follo's quarterbacking in a non-physician register. Currently unused in V3.
+3. **Bedside-family scene** (§A6 expansion). Ian met families who appreciated his presence during what he calls the hardest decision — placing a loved one in a nursing home. New dimension: the LNA work as witness to family decisions, not only patient care. Currently unused.
+
+### Three candidate latter-half re-architectures
+
+Each preserves the first half (P1–P4, chiasmus thesis, Jamie midnight bridge) exactly as revise-008 shipped. Each replaces the P6–P8 paradigm with a different structural argument. A-1.2 is my recommendation; A-1.3 and A-1.4 are genuine alternatives with tradeoffs.
+
+---
+
+#### A-1.2 — Escalating intimacy (Hippocrates's recommendation)
+
+**Structural move:** Reverse Follo and LNA; extend Ian's own "extension from EO Ventures but up close and personal" framing into the latter half as its structural spine. The essay now runs a single argument from P4 to P7: *Ian spent a decade closing the distance to where help lands — from research distance, to investor distance, to clinician-shadowing distance, to bedside. Each step taught something the last step couldn't.* P7 then tests the argument inside Ian's own hands at the bedside.
+
+**Paragraph structure (P5 onward):**
+
+| # | Paragraph | Beats | Approx chars |
+|---|---|---|---|
+| 5 | Jamie midnight bridge | Unchanged from revise-008: *"I had wandered a long way and come right back. In the weeks after Dr. Mo's judgment call I knew, finally, what I had been delaying. It felt like time to take the next step."* | ~500 |
+| 6 | Closing the distance — FQHC with Dr. Follo | *"I started by closing the distance I had kept from the bedside."* (or similar bridge — writer's call.) Ian shadowed Dr. Follo at a federally qualified health center. Ian-verbatim-derived frame: **a closer vantage on what he had watched from investor distance — the same systemic observation, *"up close and personal."*** 20-minute constraint. Patients unhoused, suffering from addiction, dealing with trauma. Quarterback-patient scene (survivor → sober → stable → prenatal care, *"quarterbacked every one of those transitions"*). What Ian saw: the work of carrying one life through, across years, when the evidence doesn't prescribe and the time doesn't permit but the physician does it anyway. | ~800 |
+| 7 | Crossing into the room — LNA at the bedside | *"Then I stepped into the room myself."* (or similar bridge.) Ian's LNA work at a dementia and hospice unit. Walter scene preserved verbatim (bath, *"Just leave me alone,"* trust moment, *"Even when there is nothing left to fix, there is a world of good still to be done"*). One line on sustained-attention register (either MS patient one-sentence reference, or the *"fulfilling in a way I hadn't expected"* Ian-verbatim close). **Argumentative close of the paragraph:** *"At the bedside I could meet someone where they were. What I couldn't do was carry what came next."* (Or equivalent — writer's call. The honest limit: presence alone isn't the physician's work.) | ~650 |
+| 8 | Closing | Three moves: (a) what the decade's full escalation revealed — the duet physicians carry IS presence + training + the capacity to sustain both across years; (b) Jamie is well, carried by a tapestry of physicians who did exactly that across her arc — Dr. Mooney, Dr. Mo, Dr. Ng, the fertility doctor; (c) Ian's commitment, closing on the Ian-verbatim *"call to be of service to others, and to be there when things are difficult, is where I'm meant to be."* The tapestry stays but is reframed — not *"look at all these people"* but *"these are the people who did the thing I've spent a decade trying to understand."* | ~450 |
+
+**Budget estimate:** ~2,400 chars for P5–P8. With P1–P4 at ~2,600 (revise-008 first half), total ~5,000 / 5,300. Comfortable headroom.
+
+**What this outline does differently from A-1.1:**
+
+- **Follo before LNA.** The order-reversal is load-bearing: P6 lands the physician's duet *first* (now the thesis-completing paragraph), P7 lands Ian's own bedside work *second* (now the test-and-limit paragraph). This breaks the "I did activity A AND activity B" parallel. The two paragraphs now do different argumentative work.
+- **Escalation-as-spine.** P4 (decade) → P6 (FQHC shadow) → P7 (LNA bedside) is now one continuous closing of distance. The reader sees Ian move paragraph-by-paragraph closer to where help actually lands. This reframes the prep section as the completion of the decade's argument, not as a separate "applicant activities" block.
+- **Ian's own framing does the work.** *"An extension from EO Ventures but up close and personal"* becomes the structural bridge from P4 to P6. Ian's voice is the spine.
+- **P7 closes with an honest limit.** Instead of "the work was fulfilling" as a reflective reapplicant-growth-arc line (which reads as applicant-move), P7 ends on the limit Ian hit at the bedside: presence alone doesn't carry what came next. That's what makes P8's *"want to earn the training"* argumentatively earned rather than formulaic.
+- **P8 reframes the tapestry.** Instead of "tapestry of people who helped us," the tapestry becomes the example of what the argument has been describing — physicians who carried the duet through Jamie's arc. Same substrate, different framing.
+
+**Risks:**
+
+- The P6→P7 bridge must make the order-reversal obvious without over-signposting. If a reader reads P6 (Follo) and then P7 (LNA) as just "two prep activities in a different order," the paradigm hasn't broken. The argumentative close of P6 and the argumentative open of P7 must make the escalation visible.
+- Ian's *"extension from EO Ventures"* framing reuses language from the decade paragraph — risk of over-repetition. Writer must judge how explicitly to surface Ian's phrase vs. implying it.
+- P7 ending on a limit (*"what I couldn't do was carry what came next"*) is adjacent to negative self-framing. Must land as honest-self-assessment, not deficit claim. This is a craft call Galen can handle, but worth naming.
+
+---
+
+#### A-1.3 — Collapse the dual prep paragraphs; expand P5 into Jamie's full arc
+
+**Structural move:** Kill one of the two prep paragraphs. P5 expands to carry Jamie's full post-surgery arc — the tapestry of physicians is shown as scene, not listed in the closing. The prep section becomes a single paragraph doing both Ian's-own-bedside-work and the physician-witness in a unified argument.
+
+**Paragraph structure (P5 onward):**
+
+| # | Paragraph | Beats | Approx chars |
+|---|---|---|---|
+| 5 | Jamie's arc + midnight bridge, expanded | Current P5 substrate (Scotland → ED → Boston → surgery → midnight) PLUS the radiation weeks with Dr. Ng; the fertility-doctor moment (*"opened a conversation we didn't know to ask for"*); Jamie's recovery. The reader watches the physician duet carry Jamie through months, not one scene. Midnight-BWH recognition lands inside the arc. *"It felt like time to take the next step."* | ~900 |
+| 6 | Preparation — bedside + witness, collapsed | Ian went back to the bedside to do the work himself (LNA at a dementia and hospice unit). Walter scene preserved. *"Fulfilling in a way I hadn't expected."* In parallel, Ian shadowed Dr. Follo at an FQHC — one to two sentences, not a full scene: the 20-minute constraint + one line on Follo's sustained work with one patient across years. Argumentative close: Ian has now seen the duet from both inside and outside; he wants to learn to carry both halves himself. | ~800 |
+| 7 | Closing | Compressed version of current P8 — Jamie's well-ness; commitment; call-to-service. Tapestry is not re-listed (it was shown in P5). | ~350 |
+
+**Budget estimate:** ~2,050 chars for P5–P7. P1–P4 at ~2,600. Total ~4,650 / 5,300. 650+ headroom.
+
+**What this outline does differently:**
+
+- **P5 becomes the weightiest paragraph.** Jamie's arc is shown, not referenced. The tapestry of physicians (Mooney / Mo / Ng / fertility doctor) appears as scene material, not closing name-drop.
+- **One prep paragraph, not two.** The reapplicant formula is broken by structural absence — there is no "and then I shadowed a doctor" paragraph. Follo appears as a one-to-two-sentence reference inside the collapsed prep paragraph.
+- **Argumentative compression.** The latter half is three paragraphs, not four. Closing is tight.
+
+**Tradeoffs:**
+
+- **Loses the Follo quarterback patient scene as a full beat.** This is high-quality substrate (survivor → sober → stable → prenatal is vivid and specific). A one-sentence reference won't land with the same weight. This is the primary cost.
+- **Requires new substrate for P5's expansion.** Dr. Ng radiation weeks and the fertility-doctor moment are currently one-line references in the closing. Expanding them into scene material either requires (a) more interview from Ian (what specifically happened in those moments?) or (b) writer's-hand filling in plausible scene texture (risks fabrication — not an option).
+- **Higher interview cost before drafting.** Realistically an interview session with Ian on the fertility-doctor moment and Dr. Ng's radiation-week interactions is needed before this outline is draftable.
+
+---
+
+#### A-1.4 — Single-recognition-scene latter half
+
+**Structural move:** Radical compression. No separate LNA-reflection paragraph, no separate Follo-shadowing paragraph. One scene — at the bedside, with Walter (or MS patient, or a composite) — does all the prep-section argumentative work. Follo is referenced within the scene (e.g., *"what I had seen Dr. Follo do the week before was still with me as I sat there"*) rather than as a separate paragraph.
+
+**Paragraph structure (P5 onward):**
+
+| # | Paragraph | Beats | Approx chars |
+|---|---|---|---|
+| 5 | Jamie midnight bridge | Unchanged. | ~500 |
+| 6 | One recognition scene at the bedside | A single LNA shift or a single hospice moment where the physician-duet crystallized for Ian — what the work requires, what he can and can't do alone, what he had seen physicians carry across years and now understood. Walter scene OR MS patient scene as the anchor. Follo and the quarterback patient appear as a single interior reference, not a separate paragraph. | ~800 |
+| 7 | Closing | Direct forward-pointing commitment. Less formulaic than A-1.1's tapestry/earn-training/call-to-service triad — possibly a single specific image that carries the argument. Ian's *"call to be of service to others"* line lands as the last sentence, but the setup is tighter than A-1.1's. | ~400 |
+
+**Budget estimate:** ~1,700 chars for P5–P7. P1–P4 at ~2,600. Total ~4,300 / 5,300. 1,000 headroom — possibly too much; paragraphs may need to breathe.
+
+**What this outline does differently:**
+
+- **Maximum structural distinctiveness.** The latter half does not look like any reapplicant formula. One scene, closing, done.
+- **Cuts a lot.** Follo loses beat-level presence; the LNA paragraph loses either Walter or MS patient if both can't fit.
+- **Risk profile:** high. Requires one scene weighty enough to carry the whole latter-half argument. Walter might be it; MS patient might be it; neither may be.
+
+**This is the highest-risk, highest-distinctiveness option.** Ian should pick it only if the A-1.2 paradigm break reads as insufficient.
+
+---
+
+### Hippocrates's pick: A-1.2
+
+Reasons:
+
+1. **Minimum intervention that breaks the paradigm.** Order-reversal of Follo and LNA, with argumentative close/open pairing that makes the escalation visible, is the smallest change that meaningfully differentiates the latter half from the reapplicant formula. Larger changes (A-1.3, A-1.4) carry larger risks of losing substrate or requiring new interview material.
+2. **Uses Ian's own framing.** *"Extension from EO Ventures but up close and personal"* is a live Ian-voice line that can become the structural spine. Spine-in-Ian's-voice is the cleanest way to keep authenticity while changing structure.
+3. **Preserves both Walter and the quarterback patient as full scenes.** A-1.2 loses nothing of the existing substrate. A-1.3 loses Follo-as-scene; A-1.4 loses one or both.
+4. **Makes P7 argumentatively load-bearing.** Instead of ending on a reflective applicant-growth-arc line, P7 closes on an honest limit. That limit is what makes P8's *"want to earn the training"* an argued conclusion rather than a formulaic reapplicant chord.
+5. **P8 reframe keeps the tapestry but changes its role.** The tapestry in A-1.1 lists people; in A-1.2 the tapestry becomes evidence for what the essay has been arguing. Same content, different structural weight.
+
+A-1.3 is the right choice if Ian reads the two-paragraph prep section as fundamentally unsalvageable regardless of order. It requires an interview session on the Jamie-recovery-arc to unlock the P5 expansion substrate.
+
+A-1.4 is the right choice if Ian reads the latter half as needing maximum compression and is willing to cut the quarterback-patient scene.
+
+### What happens next
+
+1. Ian picks A-1.2, A-1.3, or A-1.4 — or redirects entirely (*"none of these; here's what I actually want"*).
+2. If A-1.2: dispatch Galen on revise-009 against A-1.2. Brief points to this section and the three craft constraints (visible escalation-via-close/open pairing, Ian-verbatim framing preserved, P7 honest-limit without deficit-claim).
+3. If A-1.3: interview Ian on Jamie-recovery-arc substrate (Dr. Ng weeks; fertility-doctor moment) BEFORE dispatching. New substrate → then dispatch.
+4. If A-1.4: Ian picks the anchor scene (Walter or MS patient or composite), then dispatch.
+
+No drafting until the latter-half paradigm is chosen.
