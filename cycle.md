@@ -41,7 +41,8 @@ Current state: V2.0 in Drive, last revised 2026-03-15. Mark Zaki's Round 2 feedb
   - Reframe FQHC shadowing + LNA work as preparation to be a physician, not as tests of whether to become one.
   - Be decisive on why MD specifically — not nurse, patient advocate, or social worker.
   - Residual from Round 1: tighten casual register and transitions; consider an orienting exec-summary line before the "path to Walter's was not direct" pivot sequence.
-- [ ] **🔴 Resolve V3 opening + reapplication framing** (flagged by Ian 2026-04-21 as primary open problem). Separate decisions: *mention* reapplication (yes — Mark's preference + framing value) vs. *open with* reapplication (probably no — "leads with failure" + Mark's Round 2 "open inside Jamie"). Leading candidate: open with midnight BWH post-op scene (§Q3 of interview-notes.md), mention reapplication in the decade paragraph. Full context in `application/personal-statement/interview-notes.md` §Q14.
+- [x] **V3 opening + reapplication framing: resolved 2026-04-21 (Ian).** Midnight post-op scene opens (do not name BWH — credential-drop risk at non-Harvard schools, use geography + career-start link). Reapplication mention lives in the decade paragraph. Why-MD axis sits hard on Dr. Mo's judgment-under-ambiguity (Follo + Murphy as supporting beats). Physician-naming policy: use names we have (Mooney/Follo/Mo/Ng/Murphy), role for fertility doctor. All captured in `application/personal-statement/writer-packet.md` §1.1, §1.4, §3.3, §3.4.
+- [ ] Galen drafting V3 first-draft (task `draft-001`, dispatched 2026-04-21). PR will open against `ps/v3-mission-brief` for now; auto-retargets to main after PR #3 merges.
 - [ ] Share V3 with Mark Zaki for Round 3
 - [ ] Share V3 with Dr. B
 

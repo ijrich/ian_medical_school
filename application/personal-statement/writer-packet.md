@@ -32,13 +32,15 @@ All paths relative to `projects/ian_medical_school/`:
 
 Leading candidate shape based on the 2026-04-21 interview. **Non-binding** — writer may find a better structure in drafting.
 
-### 1.1 Opening — the midnight BWH post-op scene (§Q3)
+### 1.1 Opening — the midnight post-op scene (§Q3)
 
-Opens *inside* Jamie's crystallizing moment (per brief §6.1). Setting: Brigham & Women's Hospital, post-op floor described as an "austere basement," roughly midnight, hospital empty. Jamie is awake, talking, herself after a 9-hour tumor resection + spinal fusion. Family goes in one by one. Ian reflects: he started his career at this *same hospital* as a 20-year-old genetics researcher aspiring to be a doctor. The decade turned and twisted and led him back. *"It felt like time to take the next step."*
+**Confirmed opener (Ian, 2026-04-21).** Opens *inside* Jamie's crystallizing moment (per brief §6.1).
+
+Setting: a Boston teaching hospital (Brigham & Women's — but do **not** name it in V3; see §3.3 naming flag), roughly midnight, hospital empty. Jamie's own word for the space was *"the austere basement of this hospital"* — preserve the phrase; don't locate the room beyond what Ian said. Jamie is awake, talking, herself after a 9-hour tumor resection + spinal fusion. Family goes in one by one. Ian reflects: he started his career at this *same hospital* as a 20-year-old genetics researcher aspiring to be a doctor. The decade turned and twisted and led him back. *"It felt like time to take the next step."*
 
 **Why this opener works:**
 - Inside the crystallizing moment (Mark Zaki Round 2 requirement)
-- Full-circle geography — BWH is both Jamie's surgery site and Ian's career-start site (confirmed by Ian 2026-04-21)
+- Full-circle geography — same hospital is both Jamie's surgery site and Ian's career-start site (confirmed by Ian 2026-04-21)
 - Gratitude register, not failure or audition
 - Decision-voice, not test-voice
 
@@ -46,7 +48,7 @@ Opens *inside* Jamie's crystallizing moment (per brief §6.1). Setting: Brigham 
 
 **Frame:** *"I was young, and I took the question seriously. … I wandered off on another path wondering if I'd come back to medicine naturally."*
 
-**Substance to layer:** genetics at BWH → digital health → VC → impact investing. Not drift; substantive exploration.
+**Substance to layer:** genetics at BWH → digital health → VC → impact investing. Goal is to land the decade as substantive exploration while honoring Ian's own hedge (*"sounding a bit less lackidasical"*) — the paragraph shouldn't over-assert intentionality or turn the wandering into a retrofit plan.
 
 **Natural home for the reapplication mention** (per §Q14 mention-vs-opener separation): *"Right out of college I applied to medical school. That cycle didn't land. I went to work in…"* — three or four lines carry the framing Mark wants without leading with failure.
 
@@ -60,17 +62,19 @@ Opens *inside* Jamie's crystallizing moment (per brief §6.1). Setting: Brigham 
 
 **Optional secondary beat — Dr. Mooney** (§Q1 follow-up). The post-op bedside moment — five minutes of his time with the family when he could have kept walking. "Honest optimism," even-keeled, jokes.
 
-### 1.4 The physician's role — triangulation across three angles
+### 1.4 The why-MD claim — sit hard on Dr. Mo's judgment axis
 
-Three witnessed physicians, three modalities of the same why-MD claim:
+**Decision (Ian, 2026-04-21):** V3's why-MD paragraph sits hard on Dr. Mo's judgment-under-ambiguity axis. Dr. Follo and Will Murphy appear in the essay as supporting beats, illustrating that the same depth-of-training shows up in different registers across the field — but they do not share scene-real-estate with the core claim.
 
-| Physician | Register | What only physician training unlocks |
+**Core claim to land:** *"Physicians are trained to make the judgment call when the evidence is ambiguous and the stakes are life-shaping."* Sharper than V2's formulation; closes Mark Zaki's Round 2 why-MD gap.
+
+| Physician | Role in V3 | Register |
 |---|---|---|
-| **Dr. Mo** | Acute, high-stakes, ambiguous | Synthesis + judgment under irreducible uncertainty |
-| **Dr. Follo** | Chronic, longitudinal, underserved | Integrated trust + quarterback across life transitions |
-| **Will Murphy** | Preventive, specialist | Pattern recognition + upstream intervention |
+| **Dr. Mo** | **Scene anchor for why-MD claim** | Synthesis + judgment under irreducible uncertainty (acute) |
+| **Dr. Follo** | Supporting beat + preparation-paragraph anchor (§1.5) | Quarterback across life transitions (chronic, longitudinal) |
+| **Will Murphy** | Supporting beat | Pattern recognition + upstream intervention (preventive) |
 
-**Core claim to land:** *"Physicians are trained to make the judgment call when the evidence is ambiguous and the stakes are life-shaping."* (Sharper than V2's formulation; closes Mark Zaki's Round 2 why-MD gap.)
+**Alternative considered and rejected** (Ian 2026-04-21): using all three physicians as scene-equivalent anchors and landing a broader *"depth-of-training shapes trajectory"* claim. Rejected because 5,300 chars can't hold three scenes without crowding Jamie's spine, and Mark Zaki's Round 2 requires a sharp claim over range. Writer should not reconsider this unless the draft specifically runs into a structural problem and brings it back to Hippocrates.
 
 ### 1.5 Preparation beats — FQHC, LNA, MSK
 
@@ -165,12 +169,12 @@ The hope-then-dashed emotional turn only exists because the ED visit left open a
 | Michigan coincidence with Mooney | §Q1 follow-up | Ian's call whether it lands. Risk: reads as sentimental. Reward: human coloration. |
 | LNA-identity mirror with the Dr. Follo patient | §Q9 | Writer's call. Potentially powerful, potentially invasive. |
 | Will as both subject and reader | §Q13 | Will reviews V3 (brief §8). Frame any MSK beat so neither he nor the adcom finds it awkward. |
+| **"Brigham and Women's Hospital" named in opener** | §1.1 / §3.4 (Ian 2026-04-21) | Do **not** name BWH explicitly. Credential-drop risk at non-Harvard schools — could read as "applicant is really aiming Harvard, settling for us." Reference by geography + career-start link ("the Boston teaching hospital where I had started my career a decade earlier as a genetics researcher"). Full-circle point is that it's the *same* hospital, not a famous one. |
+| **Physician naming policy** | §1 / §2.3 (Ian 2026-04-21) | Use the name when we have it (Mooney, Follo, Mo, Ng, Murphy — all confirmed 2026-04-21 as usable in print). Use role when we don't (the fertility doctor). If Ian supplies Ng/Mo/fertility full names later, upgrade. Consistent across the whole essay. |
 
-### 3.4 Primary structural decision held open by Ian
+### 3.4 Primary structural decision — V3 opening
 
-**V3 opening: midnight BWH scene vs. reapplication-explicit opener** (§Q14).
-
-Ian flagged this as a primary problem to resolve during drafting. Leading candidate per the mention-vs-opener separation: midnight scene opens, reapplication mention lives in the decade paragraph. Writer can test both in draft and bring the choice back to Ian.
+**✅ Resolved 2026-04-21 (Ian):** V3 opens with the midnight post-op scene (§1.1). Reapplication mention lives in the decade paragraph (§1.2). See §3.3 for the BWH-naming handling flag that applies to the opener.
 
 ### 3.5 Timeline coherence
 
@@ -200,6 +204,8 @@ College → first cycle (right out of college, didn't land) → decade (BWH gene
 - **Will Murphy's written feedback on V2**, if it exists beyond second-hand references. Ian to supply.
 - **Full names + institutions** for Dr. Ng, Dr. Mo, and the fertility doctor. Ian to supply if comfortable naming in print.
 - **Dr. Mo diagnosis-scene specificity** (§Q4 gaps): setting, who was in the room, exact wording, transition to "cutting edge treatments." Held as follow-up only; writer may request if V3's draft makes Dr. Mo a full scene rather than a beat.
+- **Diagnosis nomenclature cross-check.** V2 uses a specific phrasing for Jamie's diagnosis (multiple myeloma / plasmacytoma / possibly combined). Writer should confirm V2's exact term against `artifacts/2026-04-20-drive-pull/personal-statement-raw.md` before locking V3's phrasing. Wrong term reads as a credibility failure to physician reviewers. Low-effort check.
+- **Service-hours log cross-check.** Timeline anchors in §3.5 (July 2025 MCAT retake, Sept 2025 CNA school, Sept 2025 FQHC shadow start) should be verified against `artifacts/2026-04-20-drive-pull/service-hours-raw.md` before V3 cites any hour counts or dates in print.
 
 ---
 
@@ -207,8 +213,9 @@ College → first cycle (right out of college, didn't land) → decade (BWH gene
 
 - The Portsmouth neurosurgeon (Ian ruled out).
 - Identifying details of the Dr. Follo patient (§3.3).
-- A named lab or specific genetics-research role at BWH (Ian hasn't volunteered it; "I started my career at this hospital" is enough).
-- Verbatim "*down in the dumps and single dimensional*" (§Q7) or "*poor and down on their luck*" (§Q9).
+- **"Brigham and Women's Hospital" named in the opener or elsewhere** (Ian 2026-04-21 — see §3.3). Use geography + career-start link instead.
+- A named lab or specific genetics-research role at BWH ("I started my career at this hospital" is enough; no Ian volunteering of lab or role).
+- Verbatim *"down in the dumps and single dimensional"* (§Q7) or *"poor and down on their luck"* (§Q9).
 - A BVP-specific moment (§Q8 — doesn't exist; don't invent).
 - A planned-test framing of the decade (§Q7 — Ian rejects this; use the wandered-off framing instead).
 
