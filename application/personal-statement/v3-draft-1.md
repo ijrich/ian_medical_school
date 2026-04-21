@@ -1,12 +1,12 @@
-# Personal Statement V3 — Draft (rev 3: prose polish + agency)
+# Personal Statement V3 — Draft (rev 4: no-negative-framing)
 
 **Drafted:** 2026-04-21 by Galen
-**Last revision:** 2026-04-21 — rev 3 prose polish + agency check per `revise-002.md`
-**Source material:** `writer-packet.md` (canonical), `interview-notes.md`, `v3-mission-brief.md`, V2 raw.
+**Last revision:** 2026-04-21 — rev 4 no-negative-framing pivot per `revise-003.md`
+**Source material:** `writer-packet.md` (canonical, §3.3 + §6 updated 2026-04-21), `interview-notes.md`, `v3-mission-brief.md`, V2 raw.
 **Diagnosis nomenclature:** V2 uses "multiple myeloma and a spinal tumor." V3 preserves that term ("multiple myeloma").
 
-**Character count (incl. whitespace):** 4,995 / 5,300 (AMCAS limit) — measured on `v3-draft-1-body.txt`, the essay-only body
-**Word count:** 894
+**Character count (incl. whitespace):** 4,893 / 5,300 (AMCAS limit) — measured on `v3-draft-1-body.txt`, the essay-only body
+**Word count:** 875
 
 ## Delta from V2 — closing Mark Zaki's three Round 2 gaps
 
@@ -34,13 +34,17 @@
 - Walter-to-Murphy pivot: dropped MSK naming (credential-drop risk, per packet §3.3 "let content carry"). New: *"I also shadowed Will Murphy, a dermatologic oncologist. He could look at a single mark…"*
 - Tapestry cliché flag: reviewed and left. Ian's Q2 verbatim + the four named physicians give the phrase specific content; Ian to revise on his aesthetic pass if he wants.
 
+## Rev-4 no-negative-framing change
+
+- Paragraph 2: dropped the sentence *"The physicians I had been around looked stretched thin, and I wasn't sure that was the life I wanted."* — per updated writer-packet §3.3 + §6, physicians (and any group) are not to be framed negatively in the essay, even softened. Chose option (a) from the brief — drop entirely. The preceding *"I was young, and I took the question seriously"* carries the self-questioning directly into *"So I set out to help from the outside."* Saves 102 chars (4,995 → 4,893).
+
 ---
 
 ## Draft
 
 It was close to midnight in the austere basement of the Boston teaching hospital. Jamie had just come through a nine-hour surgery to remove a spinal tumor and fuse her spine. The floor was empty. Her family and I went in one by one to see her — awake, talking, herself. Even in that room, there was so much personality and so much love. I had first walked into this hospital at twenty, a genetics researcher who wanted to be a doctor. I had wandered a long way and come right back to where I began. It felt like time to take the next step.
 
-Right out of college I applied to medical school. That cycle didn't work out. I was young, and I took the question seriously. The physicians I had been around looked stretched thin, and I wasn't sure that was the life I wanted. So I set out to help from the outside. I worked as a genetics researcher and kept noticing the gap between what we found and the patients it could reach. I joined a digital health startup building diabetes-prevention tools and felt what direct impact could be — and how badly payment mechanisms held it back.
+Right out of college I applied to medical school. That cycle didn't work out. I was young, and I took the question seriously. So I set out to help from the outside. I worked as a genetics researcher and kept noticing the gap between what we found and the patients it could reach. I joined a digital health startup building diabetes-prevention tools and felt what direct impact could be — and how badly payment mechanisms held it back.
 
 I got an MBA and became a venture capitalist. Then I moved to impact investing, focused on the Medicaid population. I came to understand why mental illness cycles back through emergency rooms, why a missed paycheck can spiral into homelessness, and how much of what healthcare can do is shaped by incentives no one in the exam room controls. Medicine stayed in the back of my mind the whole time. I was continuously comparing what I was doing against it. I wandered off on another path, wondering if I'd come back to medicine naturally. When Jamie was diagnosed, I stopped wandering.
 
