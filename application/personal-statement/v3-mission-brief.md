@@ -75,9 +75,9 @@ The writer can structure V3 however serves the spine, but one path that fits Mar
 5. **The physician-specific claim** — decisive. What an MD does that adjacent roles can't. Earned by what precedes it.
 6. **Close** — forward-looking, not retrospective.
 
-## 7. Open questions the writer must get answered by Ian before drafting
+## 7. Open questions the writer needs answered — interview runs via Hippocrates
 
-These are the things V2 doesn't surface cleanly and that V3 needs. The writer should run this as an interview with Ian before writing the first draft.
+These are the things V2 doesn't surface cleanly and that V3 needs. **Hippocrates runs this as a structured interview with Ian** and parks the transcript at `application/personal-statement/interview-notes.md`. The writer consumes both artifacts — this brief and the transcript — and may follow up on anything still unclear. Running the interview through Hippocrates uses the cross-check context already sitting in this repo (service-hours log, Mark's feedback rounds, V2 itself) so follow-ups about narrative/evidence consistency happen in one pass instead of two.
 
 **Jamie's arc (highest priority):**
 1. Full timeline from diagnosis through current state. Where is she now? What's the prognosis?
